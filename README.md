@@ -21,7 +21,7 @@ With a solid background in managing structured workflows and solving critical bu
 * **Description:** A complete data pipeline project. Extracted raw web and sales data from Google BigQuery via SQL, performed deep exploratory and statistical analysis (T-tests, Mann-Whitney, correlations) in Python, and deployed a 2-page interactive dashboard on Tableau Public.
 * **Tools Used:** SQL, Python (Pandas, SciPy), Tableau Public
 
-### 🧪 [2. Automated A/B Testing Analysis Tool & BI Dashboard](./Data-Analytics-Portfolio/tree/main/AB-Testing-Automation/)
+### 🧪 [2. Automated A/B Testing Analysis Tool & BI Dashboard](https://github.com/ValentynaKhomenkoDA/Data-Analytics-Portfolio/tree/main/AB-Testing-Automation)
 * **Description:** Automated product analytics tool designed to eliminate manual calculators. Built a dynamic Python script using loops to calculate the statistical significance (p-values, Z-score) of conversion funnels (`checkout`, `payment info`). Integrated results into an advanced Tableau monitor to visually isolate real product shifts from random noise.
 * **Tools Used:** Python (Statsmodels, SciPy), Tableau Public, CSV processing
 
@@ -29,9 +29,9 @@ With a solid background in managing structured workflows and solving critical bu
 
 ## 🗄️ Core Skills & Task Folders
 
-* 🗃️ **[SQL Projects](./SQL-Projects/)** — Advanced window functions, complex `JOIN` logic, aggregations, and query optimization for marketing and product task checks (results visualised in Looker Studio).
-* 📈 **[Tableau Dashboard Collection](./Tableau-Projects/)** — Interactive, business-driven dashboards answering specific metrics regarding Session Analysis, Global Sales Performance, and YoY Email Campaign Metrics.
-* 🐍 **[Python Core Tasks](./Python-Projects/)** — Comprehensive retail data cleaning, data type transformations, duplicate/anomaly elimination, and seasonality analysis.
+* 🗃️ **[SQL Projects](https://github.com/ValentynaKhomenkoDA/Data-Analytics-Portfolio/tree/main/SQL-Projects)** — Advanced window functions, complex `JOIN` logic, aggregations, and query optimization for marketing and product task checks (results visualised in Looker Studio).
+* 📈 **[Tableau Dashboard Collection](https://github.com/ValentynaKhomenkoDA/Data-Analytics-Portfolio/tree/main/Tableau-Projects)** — Interactive, business-driven dashboards answering specific metrics regarding Session Analysis, Global Sales Performance, and YoY Email Campaign Metrics.
+* 🐍 **[Python Core Tasks](https://github.com/ValentynaKhomenkoDA/Data-Analytics-Portfolio/tree/main/Python-Projects)** — Comprehensive retail data cleaning, data type transformations, duplicate/anomaly elimination, and seasonality analysis.
 
 ---
 
