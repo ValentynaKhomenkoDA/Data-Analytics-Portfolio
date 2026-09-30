@@ -10,7 +10,8 @@ With a solid background in managing structured workflows and solving critical bu
 * **Languages & Querying:** SQL (Google BigQuery, PostgreSQL), Python
 * **Data Manipulation & Stats:** Pandas, NumPy, SciPy (Hypothesis Testing, Correlation, A/B Testing)
 * **Data Visualization & BI:** Tableau Public, Looker Studio, Matplotlib, Seaborn
-* **Platforms & Tools:** CRM Systems, 1C, Git/GitHub, Google Colab
+* **Project Management & Methodologies:** Knowledge of SDLC, Agile (Scrum, Kanban), Waterfall concepts
+* **Platforms & Tools:** CRM Systems, Git/GitHub, Google Colab
 
 ---
 
