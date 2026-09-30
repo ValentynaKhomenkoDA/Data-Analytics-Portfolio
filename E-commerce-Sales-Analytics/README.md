@@ -3,7 +3,7 @@
 A comprehensive data analytics project that spans the entire data pipeline: extracting relational web and sales data via SQL, performing exploratory and advanced statistical analysis in Python, and building an interactive executive dashboard in Tableau.
 
 ## 📂 Project Deliverables
-* **Jupyter Notebook:** 👉 **[View Python & SQL Analysis Notebook](./E-commerce-Sales-Analytics/)**
+* **Jupyter Notebook:** 👉 **[View Python & SQL Analysis Notebook](./E-commerce-Sales-Analytics/E_commerce_Analytics.ipynb/)**
 * **Interactive Dashboard:** 👉 **[View Live Tableau Dashboard](https://public.tableau.com/shared/NHKSJWY4C?:display_count=n&:origin=viz_share_link)**
 
 ## 🎯 Project Objectives & Phase Highlights
