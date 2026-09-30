@@ -1,4 +1,4 @@
-# SQL Advanced Module Task
+# Data Extraction & Commercial Insights (SQL)
 
 ## 📝 Project Overview
 This project showcases advanced SQL techniques used to extract, clean, and analyze business data. The results were then visualized in an interactive dashboard.
@@ -6,6 +6,9 @@ This project showcases advanced SQL techniques used to extract, clean, and analy
 ## 🛠️ Tech Stack & Tools
 * **Database:** SQL (BigQuery)
 * **Data Visualization:** Looker Studio
+
+## 💻 Source Code
+* 👉 **[View Raw SQL Queries](https://github.com/ValentynaKhomenkoDA/Data-Analytics-Portfolio/blob/main/SQL-Projects/Data%20Extraction%20%26%20Commercial%20Insights%20(SQL))**
 
 ## 📈 Dashboard & Insights
 You can view the interactive dashboard and explore the data directly here:
