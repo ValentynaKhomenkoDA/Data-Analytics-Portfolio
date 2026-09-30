@@ -1,6 +1,6 @@
 # Tableau Data Visualization Projects
 
-This folder contains functional, business-driven dashboards built in Tableau to solve specific data verification and technical check (Tech Check) requirements.
+This folder contains functional, business-driven dashboards built in Tableau to solve specific data verification.
 
 ---
 
