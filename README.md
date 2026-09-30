@@ -17,11 +17,11 @@ With a solid background in managing structured workflows and solving critical bu
 
 ## 📂 Featured Portfolio Projects (End-to-End Case Studies)
 
-### 📊 [1. End-to-End E-commerce Sales & Traffic Analytics](./Data-Analytics-Portfolio/E-commerce-Sales-Analytics/)
+### 📊 [1. End-to-End E-commerce Sales & Traffic Analytics](./Data-Analytics-Portfolio/tree/main/E-commerce-Sales-Analytics/)
 * **Description:** A complete data pipeline project. Extracted raw web and sales data from Google BigQuery via SQL, performed deep exploratory and statistical analysis (T-tests, Mann-Whitney, correlations) in Python, and deployed a 2-page interactive dashboard on Tableau Public.
 * **Tools Used:** SQL, Python (Pandas, SciPy), Tableau Public
 
-### 🧪 [2. Automated A/B Testing Analysis Tool & BI Dashboard](./Data-Analytics-Portfolio/AB-Testing-Automation/)
+### 🧪 [2. Automated A/B Testing Analysis Tool & BI Dashboard](./Data-Analytics-Portfolio/tree/main/AB-Testing-Automation/)
 * **Description:** Automated product analytics tool designed to eliminate manual calculators. Built a dynamic Python script using loops to calculate the statistical significance (p-values, Z-score) of conversion funnels (`checkout`, `payment info`). Integrated results into an advanced Tableau monitor to visually isolate real product shifts from random noise.
 * **Tools Used:** Python (Statsmodels, SciPy), Tableau Public, CSV processing
 
