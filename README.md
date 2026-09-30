@@ -17,7 +17,7 @@ With a solid background in managing structured workflows and solving critical bu
 
 ## 📂 Featured Portfolio Projects (End-to-End Case Studies)
 
-### 📊 [1. End-to-End E-commerce Sales & Traffic Analytics](.ValentynaKhomenkoDA/Data-Analytics-Portfolio/tree/main/E-commerce-Sales-Analytics/)
+### 📊 [1. End-to-End E-commerce Sales & Traffic Analytics](./Data-Analytics-Portfolio/tree/main/E-commerce-Sales-Analytics/)
 * **Description:** A complete data pipeline project. Extracted raw web and sales data from Google BigQuery via SQL, performed deep exploratory and statistical analysis (T-tests, Mann-Whitney, correlations) in Python, and deployed a 2-page interactive dashboard on Tableau Public.
 * **Tools Used:** SQL, Python (Pandas, SciPy), Tableau Public
 
